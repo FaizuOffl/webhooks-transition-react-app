@@ -1,8 +1,8 @@
 const places = [
   {
-    title: 'The Counter',
+    title: 'Green',
     description:
-      "In digital logic and computing, a counter is a device which stores the number of times a particular event or process has occurred, often in relationship to a clock.",
+      "The Maldives are home to some of the world's most ravishing islands, but it's the sea, which truly makes these islands shine. Luminous aquamarine waters with a crystal clarity lap upon these dazzling white shores, which barely peek above the Indian Ocean.",
     imageUrl: process.env.PUBLIC_URL + '/assets/island1.jpg',
     time: 1500,
   },
